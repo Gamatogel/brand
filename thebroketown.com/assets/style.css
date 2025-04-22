@@ -127,7 +127,7 @@ h6 {
 .padtop0 {padding-top:0;}
 
 #page {
-	background-image: url(//cdn.jsdelivr.net/gh/gamatogel/brand/munniacademy.com/assets/bg.jpg);
+	background-image: url(//cdn.jsdelivr.net/gh/gamatogel/brand/thebroketown.com/assets/bg.jpg);
 	background-attachment: fixed;
     background-position: 0 0;
     background-repeat: repeat;
@@ -266,7 +266,7 @@ section {padding-bottom: 70px;
 	width:40px;
 	height:40px;
 	margin-left:-9px;
-	background-image:url(//cdn.jsdelivr.net/gh/gamatogel/brand/munniacademy.com/assets/emblem.png);
+	background-image:url(//cdn.jsdelivr.net/gh/gamatogel/brand/thebroketown.com/assets/emblem.png);
 	background-repeat:no-repeat;
 	background-size:100% auto;
 	-webkit-background-size:100% auto;
@@ -296,7 +296,7 @@ section {padding-bottom: 70px;
 	border-radius:50%;
 	background-color:#cecece;
 	background-repeat: no-repeat;
-	background-image: url(//cdn.jsdelivr.net/gh/gamatogel/brand/munniacademy.com/assets/social.png);
+	background-image: url(//cdn.jsdelivr.net/gh/gamatogel/brand/thebroketown.com/assets/social.png);
 	transition: background-color 0.3s ease-in-out;
 	-webkit-transition: background-color 0.3s ease-in-out;
 }
@@ -1366,11 +1366,11 @@ footer .FlickrImages li a img {
 	padding-left:30px;
 	padding-bottom:10px;
 	border-bottom: 1px solid rgba(255,255,255,0.21);
-	background-image:url(//cdn.jsdelivr.net/gh/gamatogel/brand/munniacademy.com/assets/tweets_bg2.png);
+	background-image:url(//cdn.jsdelivr.net/gh/gamatogel/brand/thebroketown.com/assets/tweets_bg2.png);
 	background-repeat: no-repeat;
 	background-position:left top;
 }
-footer .tweet_module .tweet_list li {background-image:url(//cdn.jsdelivr.net/gh/gamatogel/brand/munniacademy.com/assets/tweets_bg.png);}
+footer .tweet_module .tweet_list li {background-image:url(//cdn.jsdelivr.net/gh/gamatogel/brand/thebroketown.com/assets/tweets_bg.png);}
 #sidebar .tweet_module .tweet_list li:last-child {
 	padding-bottom:0;
 	border-bottom:0;
@@ -1942,7 +1942,7 @@ footer .tweet_module .tweet_time a {color:#e98001;}
 	color:#505050;
 	border:0;
 	background-color:#fff;
-	background-image:url(//cdn.jsdelivr.net/gh/gamatogel/brand/munniacademy.com/assets/product-amount-bg.png);
+	background-image:url(//cdn.jsdelivr.net/gh/gamatogel/brand/thebroketown.com/assets/product-amount-bg.png);
 	background-repeat:no-repeat;
 	background-position:right bottom;
 }
@@ -1978,7 +1978,7 @@ footer .tweet_module .tweet_time a {color:#e98001;}
 	height:30px;
 	border-radius:50%;
 	background-repeat: no-repeat;
-	background-image: url(//cdn.jsdelivr.net/gh/gamatogel/brand/munniacademy.com/assets/product_social.png);
+	background-image: url(//cdn.jsdelivr.net/gh/gamatogel/brand/thebroketown.com/assets/product_social.png);
 	opacity:0.7;
 }
 .product_social li a:hover {opacity:1;}
